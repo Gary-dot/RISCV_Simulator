@@ -1,0 +1,13 @@
+Performance Matrix
+----------------------------------------
+Single Stage Core:
+Cycles: 6
+Instructions: 20
+CPI: 0.3
+IPC: 3.33333
+----------------------------------------
+Five Stage Core:
+Cycles: 10
+Instructions: 20
+CPI: 0.5
+IPC: 2
